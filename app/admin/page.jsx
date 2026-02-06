@@ -397,6 +397,7 @@ const AdminPage = () => {
                     <p className="text-[10px] font-black text-teal-800 uppercase mb-2 ml-1">
                       Yangi kategoriya qo'shish
                     </p>
+
                     <div className="flex gap-2">
                       <input
                         placeholder="Kategoriya nomi..."
